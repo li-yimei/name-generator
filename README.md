@@ -6,9 +6,6 @@ Built and trained by **[Kira Yugova](https://github.com/li-yimei)** during the *
 
 **[Try the live app](https://chinese-name-generator-li-yimei.streamlit.app/)** · **[Explore the training notebook](1_name_generator.ipynb)**
 
-## Demo
-
-<img width="948" alt="Chinese name generator showing model statistics, generation controls, and generated names" src="https://github.com/user-attachments/assets/1c5c60d9-2967-406d-9068-4988be094a41" />
 
 ## What you can explore
 
