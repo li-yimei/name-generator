@@ -110,4 +110,4 @@ Step 10 exports the new checkpoint to `app/model.pt` relative to the notebook's 
 
 ## Credits
 
-The model and application are adapted from the Transformers workshop for *Artificial Intelligence and Machine Learning*. Kira Yugova adapted the experiment, trained the Chinese-name model in Colab, and deployed the app on Streamlit Community Cloud. The synthetic dataset was prepared with AI assistance.
+The model and application are adapted from the Transformers workshop for *Artificial Intelligence and Machine Learning*; trained the Chinese-name model in Colab, and deployed the app on Streamlit Community Cloud. The synthetic dataset was prepared with AI assistance.
