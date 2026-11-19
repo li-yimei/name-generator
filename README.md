@@ -107,7 +107,3 @@ SETTINGS = {"d": 64, "heads": 2, "blocks": 2}
 ```
 
 Step 10 exports the new checkpoint to `app/model.pt` relative to the notebook's working directory. Copy that checkpoint next to the repository's root-level `app.py` to update the deployed model.
-
-## Credits
-
-The model and application are adapted from the Transformers workshop for *Artificial Intelligence and Machine Learning*; trained the Chinese-name model in Colab, and deployed the app on Streamlit Community Cloud. The synthetic dataset was prepared with AI assistance.
